@@ -3,7 +3,7 @@ Suzhou, China
 E-mail: greenearrabbit@163.com  or
 Wanqi.Wang17@student.xjtlu.edu.cn
 
-# EDUCATION & WORK EXPERIENCE
+# EDUCATION 
 2017-2020 Xian Jiaotong-Liverpool University
 
 **Degree**: B.S. Public health, University of Liverpool 
