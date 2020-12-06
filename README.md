@@ -1,6 +1,5 @@
 # Resume of Wanqi Wang
-Suzhou, China
-E-mail: greenearrabbit@163.com  or
+**E-mail**: greenearrabbit@163.com  or
 Wanqi.Wang17@student.xjtlu.edu.cn
 
 # EDUCATION 
