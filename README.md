@@ -55,6 +55,9 @@ First Aid, Red Cross Society of China, 2019-now
 
 
 # ADDITIONAL INFORMATION
--Functional native level of English
--An advanced level of R, SAS, and Stata
--An advanced level of data analysis with high performance computing
+
+Functional native level of English
+
+An advanced level of R, SAS, and Stata
+
+An advanced level of data analysis with high performance computing
