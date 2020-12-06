@@ -51,25 +51,8 @@ Heartsaver CPR/ADE, American Heart Association, 2019-now
 
 First Aid, Red Cross Society of China, 2019-now
 
-# RELEVANT WORK EXPERIENCE
-2018.6-2018.7 Laboratory internship, Institute of Zoology, Chinese Academy of Sciences
-2018.5-2020.6 Data management, cleaning & modeling of HIV testing project, paper writing, Xian Jiaotong-Liverpool University 
-2019.2-2019.8 Data analysis on the association between tea drinking and cognitive decline of subpopulation in longevity areas of Chinese Longitudinal Healthy Longevity Survey (CLHLS), Duke Kunshan University
-2019.7-2019.12 Data collection & modeling of diabetes self-management randomized controlled trail, Suzhou Taiping Hospital 
-2019.12-2020.2 Internship at Department of Sexually Transmitted Diseases & Department of Tuberculosis & Intensive Care Unit, Suzhou Fifth People’s Hospital
-2020.7-2020.8 Define interesting mutations from genomic data that are implicated in congenital heart disease, Cardiac Development and Regeneration Laboratory, Westlake University
-
-# STUDENT ACTIVITIES (SELECTED)
-2017.9-2019.3 Leader & manager, Guitar Club of Xian Jiaotong-Liverpool University 
-2017.10-2018.3 Manager, Art association of Xian Jiaotong-Liverpool University
-2017.10-2017.12 Volunteer, Suzhou Animal Rescue Center
-2018.2-now Student representative in biological science; student representative in environmental and health; student representative in public health
 
 # ADDITIONAL INFORMATION
 -Functional native level of English
 -An advanced level of R, SAS, and Stata
 -An advanced level of data analysis with high performance computing
-
-# OTHER INTERESTS
-- Violin, 2006-now (Award: Excellence Award in Violin Examination, Chinese Musician Association, 2011)
-- R programmer and fan, 2018-now (I built a website by R, to share my hospital experience and to visualize COVID-19 data https://green-ear-rabbit.github.io/blog/) 
