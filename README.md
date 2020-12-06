@@ -29,7 +29,7 @@ Wanqi.Wang17@student.xjtlu.edu.cn
 # PUBLICATIONS 
 
 Major article:
-Wang W, Shi X, Jiang Y, Zhao H, Ong JJ, Tucker JD, Prestholt FT, Pan SW, Fear of nosocomial HIV infection may be a barrier to HIV testing among young college and university students in China: A discrete choice experiment. Journal of American College Health, Volume 68, 12 June 2020, https://doi.org/10.1080/07448481.2020.1786099 
+-Wang W-, Shi X, Jiang Y, Zhao H, Ong JJ, Tucker JD, Prestholt FT, Pan SW, Fear of nosocomial HIV infection may be a barrier to HIV testing among young college and university students in China: A discrete choice experiment. Journal of American College Health, Volume 68, 12 June 2020, https://doi.org/10.1080/07448481.2020.1786099 
 
 Abstracts:
 Wang W, Shi X, Jiang Y, Zhao H, Ong JJ, Pan SW. Health service facilitators and barriers to HIV testing among college students in China: a discrete choice experiment. Annals of Behavioral Medicine, Volume 53, 06 March 2019, https://doi.org/10.1093/abm/kaz007
