@@ -26,7 +26,7 @@ Wanqi.Wang17@student.xjtlu.edu.cn
 
 2020.7 Summer Undergraduate Research Fellowship (Westlake University)
 
-# PUBLICATIONS 
+# PUBLICATIONS (SELECTED) 
 
 Major article:
 
