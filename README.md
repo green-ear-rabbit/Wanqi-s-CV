@@ -1,28 +1,34 @@
-# Wanqi Wang
-Final Year Undergraduate Student
-Epidemiologic & Biostatistics Researcher/R Programmer
-Seeking a PhD or other research opportunity
-
-Wanqi Wang
+# Resume of Wanqi Wang
 Suzhou, China
-E-mail: Wanqi.Wang17@student.xjtlu.edu.cn
+E-mail: greenearrabbit@163.com  or
+Wanqi.Wang17@student.xjtlu.edu.cn
 
 # EDUCATION & WORK EXPERIENCE
 2017-2020 Xian Jiaotong-Liverpool University
-Degree: B.S. Public health, University of Liverpool 
+
+**Degree**: B.S. Public health, University of Liverpool 
          & B.S. Public affair management, Xi’an Jiaotong-Liverpool University 
-Thesis: Improving HIV testing among college students: a randomized control trial
-Related Courses: Epidemiology, Advanced Epidemiology, Biostatistics, Applied biostatistics, Big Data Analysis, R Programming, Chemistry, Biochemistry, Linear Algebra, Calculus, Biological Basis of Health and Disease, Environmental Health, Communicable and Non-communicable Diseases.  
+         
+**Thesis**: Improving HIV testing among college students: a randomized control trial
+
+**Related Courses**: Epidemiology, Advanced Epidemiology, Biostatistics, Applied biostatistics, Big Data Analysis, R Programming, Chemistry, Biochemistry, Linear Algebra, Calculus, Biological Basis of Health and Disease, Environmental Health, Communicable and Non-communicable Diseases.  
 
 # SCHOLARSHIP AND FELLOWSHIP
+
 2018.8 University Academic Excellence Award (The first rank in the cohort)
+
 2019.8 University Academic Excellence Award (The first rank in the cohort)
+
 2020.8 University Academic Excellence Award (The first rank in the cohort)
+
 2018.5 Summer Undergraduate Research Fellowship (Xi’an Jiaotong-Liverpool University)
+
 2019.5 Summer Undergraduate Research Fellowship (Xi’an Jiaotong-Liverpool University)
+
 2020.7 Summer Undergraduate Research Fellowship (Westlake University)
 
 # PUBLICATIONS 
+
 Major article:
 Wang W, Shi X, Jiang Y, Zhao H, Ong JJ, Tucker JD, Prestholt FT, Pan SW, Fear of nosocomial HIV infection may be a barrier to HIV testing among young college and university students in China: A discrete choice experiment. Journal of American College Health, Volume 68, 12 June 2020, https://doi.org/10.1080/07448481.2020.1786099 
 
@@ -41,7 +47,9 @@ Pan SW, Dong Z, Wang Q, Wu S, Liang Y, Wang W, Strand M, Wachholtz A, Zhou G, Ma
 
 # CERTIFICATIONS
 Heartsaver First Aid, American Heart Association, 2019-now
+
 Heartsaver CPR/ADE, American Heart Association, 2019-now
+
 First Aid, Red Cross Society of China, 2019-now
 
 # RELEVANT WORK EXPERIENCE
